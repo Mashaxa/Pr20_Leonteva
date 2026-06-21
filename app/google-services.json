@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34424073494",
+    "project_id": "pr20-leonteva-58f26",
+    "storage_bucket": "pr20-leonteva-58f26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34424073494:android:0df790aa42a013b67df437",
+        "android_client_info": {
+          "package_name": "com.example.pr20_leonteva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvpo75CSz4gxtV8gai9IpT7tm66jFBlO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
